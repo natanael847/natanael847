@@ -1,16 +1,17 @@
-## Hi there 👋
+# boasvvindas ao meu perfil 🥇
 
-<!--
-**natanael847/natanael847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e tel
+- estou estudando na {alura}(https://www.alura.com.br/?srsltid=AfmBOopGSvaVFd10ZCUI1JcWrQk8V-bxrNO29EPJC3GZvFUxYx0nRLhg)
+- estou me dedenvolvendo na linguagen javascript
+- utilizo wssw espaço para minha organizaçao e compartilhamento dos meus projeto desenvolvidos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo 🍫
+
+00001106734488sp@al.educacao.sp.com.gov.br
+
+@natanael847
+
+![].(https;//media.tenor.com/wVj3vy6H8EIAAAAM/bookio.gif)
+:he
+
